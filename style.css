@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #1A1B21;
+    
+}
+.Header-el{
+    text-align: center;
+}
+.header-img{
+    margin: 0;
+    width: 350px;
+    height: 317px;
+    left: 116px;
+    top: 44px;
+    border-radius: 10px 10px 0px 0px;  
+
+}
+.header-title{
+    margin-top: 20px;
+    margin-bottom: 6px;
+    color: #FFFFFF;
+}
+.header-dk{
+    margin-bottom: 9px;
+    color: #F3BF99
+}
+a:link{
+    color: #F5F5F5;
+    text-decoration: none;
+}
+.main-el{
+   display: flex;
+   justify-content: center;
+   margin-top:  24px;
+
+}
+.mail{
+ width: 115px;
+ background-color: #FFFFFF;
+ padding: 9px 13px 9px 11px;
+ justify-content: center;
+ align-items: center;
+  border: 1px solid var(--gray-300, #D1D5DB);
+ border-radius: 6px;
+ box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+ margin-right: 18px;
+ font-weight: 600;
+
+}
+.linkedin{
+ width: 115px; 
+ background-color: #5093E2;
+ padding: 9px 13px 9px 11px;
+ justify-content: center;
+ align-items: center;
+ border-radius: 6px;
+ box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+ font-weight: 600;
+ 
+}
+.about{
+    color: #F5F5F5;
+    flex-shrink: 0;
+    font-style: normal;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.about-title{
+    width: 242.712px;
+    height: 21px;
+    font-weight: 700;
+    text-align: left;
+    padding: 5px 40px;
+}
+.about-p{
+    color: #DCDCDC;
+font-size: 16.24px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+padding: 5px 40px;
+}
+.Interest{
+ color: #F5F5F5;
+    flex-shrink: 0;
+    font-style: normal;   
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Interest-title{
+    width: 242.712px;
+    height: 21px;
+    font-weight: 700;
+    text-align: left;
+    padding: 5px 40px;
+}
+.Interest-p{
+     color: #DCDCDC;
+font-size: 16.24px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+padding: 5px 40px;
+}
+.icon-m{
+    width: 16px;
+height: 16px;
+flex-shrink: 0;
+}
+.icon-l{
+    width: 16px;
+height: 16px;
+flex-shrink: 0;
+
+}
+.footer{
+    left: 0;
+   margin-top: 25px; 
+   bottom: 0;
+   width: 100%;
+   height: 64px;     
+   background-color: #161619 ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.footer-t{
+    fill: #918E9B;
+    margin-left: 24px; 
+   
+}
+.footer-i{
+    fill: #918E9B;
+  
+     
+}
+.footer-f{
+    fill: #918E9B;
+      margin-left: 24px;
+     
+}
+.footer-g{
+    fill: #918E9B;
+      margin-left: 24px; 
+     
+}
+.icon-m{
+    fill: #FFFFFF;
+}
